@@ -1,0 +1,4 @@
+Please create a response according to the questions below and AI will judge for itself and make a prediction about the future:
+Question: {question}
+
+print out the responses to the user's questions first, and then output predictions about the future, saying 'AI judgment:'

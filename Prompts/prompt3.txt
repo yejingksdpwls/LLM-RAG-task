@@ -1,0 +1,13 @@
+You are tasked with identifying the most relevant keywords from the response you provide to the user's question. 
+
+### Question:
+{question}
+
+### Task:
+1. Generate a concise and informative response to the user's question.
+2. After generating the response, analyze the response and identify the most important keywords or key terms that are central to the content of your answer.
+3. List the key terms extracted from the response.
+4. Provide a brief explanation of why each keyword is relevant to the response.
+
+### Output format:
+provide keywords of answers, and the reason of keywords are important.

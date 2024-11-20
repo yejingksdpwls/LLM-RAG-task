@@ -1,0 +1,4 @@
+Please find the page number and page summary most relevant to the following question:
+Question: {question}
+
+For each document, provide a relevance score (from 0 to 1) based on how well it answers the question. Then, output the document with the highest relevance score and the score itself.
